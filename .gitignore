@@ -1,0 +1,6 @@
+/*.egg-info
+__pycache__
+/build
+vma.log
+vma.dot
+vma.svg
